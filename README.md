@@ -20,4 +20,5 @@ The Sparkle Robot employs a logical approach to navigate mazes. It uses the left
 ### 5. Sound Detection
 Incorporating advanced auditory processing capabilities, the robot can respond to sound cues. This feature allows it to execute precise stops and movements in response to specific sounds, enhancing its interactive abilities.
 
+https://github.com/pulinduvidmal/Sparkle-Robot/assets/107745680/e2e03187-872a-496a-ad7b-0d1b3ea7575c
 
