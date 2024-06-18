@@ -90,7 +90,7 @@ Feel free to reach out with any questions or suggestions!
 ---
 
 <div style="text-align: center;">
-  <img src="/docs/assets/robot.png" alt="New Image" title="New Image" style="width: 700px; max-width: 100%;" />
+  <img src="/docs/assets/robot.png" alt="New Image" title="New Image" style="width: 400px; max-width: 100%;" />
 </div>
 
 https://github.com/pulinduvidmal/Sparkle-Robot/assets/107745680/13c5de56-0cc0-490a-96d4-449374089251
