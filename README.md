@@ -85,6 +85,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 [Achira Hansindu]()
 
+<div style="text-align: center;">
+  <img src="/docs/assets/robot.png" alt="New Image" title="New Image" style="width: 700px; max-width: 100%;" />
+</div>
+
 Feel free to reach out with any questions or suggestions!
 
 ---
