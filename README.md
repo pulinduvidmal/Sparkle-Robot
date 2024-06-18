@@ -70,7 +70,7 @@ To get started with the Sparkle Robot, follow these instructions:
 
 https://github.com/pulinduvidmal/Sparkle-Robot/assets/107745680/13c5de56-0cc0-490a-96d4-449374089251
 
-## Contributing 🤝
+# Contributions 🤝
 
 Contributions are welcome! 
 
