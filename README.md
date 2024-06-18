@@ -85,17 +85,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 [Achira Hansindu]()
 
-<div style="text-align: center;">
-  <img src="/docs/assets/robot.png" alt="New Image" title="New Image" style="width: 700px; max-width: 100%;" />
-</div>
-
 Feel free to reach out with any questions or suggestions!
 
 ---
 
-![WhatsApp Image 2024-02-12 at 23 04 41_bae16633](https://github.com/pulinduvidmal/Sparkle-Robot/assets/107745680/b3477e90-809a-4382-9344-415355cb79f0)
-![WhatsApp Image 2024-02-12 at 23 04 46_4b88c5f3](https://github.com/pulinduvidmal/Sparkle-Robot/assets/107745680/da6b72fc-96e1-4394-b215-1a9669044c66)
-
+<div style="text-align: center;">
+  <img src="/docs/assets/robot.png" alt="New Image" title="New Image" style="width: 700px; max-width: 100%;" />
+</div>
 
 https://github.com/pulinduvidmal/Sparkle-Robot/assets/107745680/13c5de56-0cc0-490a-96d4-449374089251
 
