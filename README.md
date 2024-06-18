@@ -6,6 +6,10 @@ The Sparkle Robot is an advanced automation marvel engineered with the Arduino M
 
 We are delighted to share the successful completion of the EN2533 Robot Design and Competition module in semester 3! 🌟 Our journey was filled with diverse challenges, where my team and I showcased our technical prowess and innovative solutions.
 
+<div style="text-align: center;">
+  <img src="/docs/assets/robot.png" alt="New Image" title="New Image" style="width: 500px; max-width: 100%;" />
+</div>
+
 ## Features 🌟
 
 ### 1. Line Following and Obstacle Avoidance 🚧
@@ -54,45 +58,27 @@ To get started with the Sparkle Robot, follow these instructions:
 - Chassis with wheels
 - Box for dragging and picking
 
-## Contributing 🤝
-
-We welcome contributions to enhance the Sparkle Robot project. Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Make your changes.
-4. Commit your changes (`git commit -m 'Add some feature'`).
-5. Push to the branch (`git push origin feature-branch`).
-6. Open a Pull Request.
-
-## License 📄
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments 🙏
-
-- Special thanks to our professor and mentors for their guidance.
-- Thanks to the team members for their dedication and hard work.
-
 ## Team Members
-[Akhila Prabodha](https://github.com/akhilaprabodha)
 
-[Navini Jagoda](https://github.com/Navini11)
-
-[Pulindu Vidmal](https://github.com/pulinduvidmal)
-
-[Januka Eshan](https://github.com/eshansurendra)
-
-[Achira Hansindu]()
-
-Feel free to reach out with any questions or suggestions!
-
----
-
-<div style="text-align: center;">
-  <img src="/docs/assets/robot.png" alt="New Image" title="New Image" style="width: 500px; max-width: 100%;" />
-</div>
+- [**Akhila Prabodha**](https://github.com/AkhilaPrabodha)
+- [**Pulindu Vidmal**](https://github.com/pulinduvidmal)
+- [**Navini Jagoda**](https://github.com/Navini11)
+- [**Eshan Surendra**](https://github.com/eshansurendra)
+- [**Achira Hansindu**](https://github.com/achira1428gsd)
+  
+## Demo
 
 https://github.com/pulinduvidmal/Sparkle-Robot/assets/107745680/13c5de56-0cc0-490a-96d4-449374089251
 
+## Contributing 🤝
 
+Contributions are welcome! 
+
+- **Bug Fixes:** If you find any bugs or issues, feel free to create an issue or submit a pull request.
+- **Feature Enhancements:** If you have ideas for new features or improvements, don't hesitate to share them.
+
+Feel free to reach out with any questions or suggestions!
+
+# License 📄
+
+This project is licensed under the [MIT License](LICENSE).
