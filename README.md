@@ -76,9 +76,13 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Team Members
 [Akhila Prabodha](https://github.com/akhilaprabodha)
+
 [Navini Jagoda](https://github.com/Navini11)
+
 [Pulindu Vidmal](https://github.com/pulinduvidmal)
+
 [Januka Eshan](https://github.com/eshansurendra)
+
 [Achira Hansindu]()
 
 Feel free to reach out with any questions or suggestions!
