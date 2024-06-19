@@ -6,7 +6,7 @@ The Sparkle Robot is an advanced automation marvel engineered with the Arduino M
 
 We are delighted to share the successful completion of the EN2533 Robot Design and Competition module in semester 3! 🌟 Our journey was filled with diverse challenges, where my team and I showcased our technical prowess and innovative solutions.
 
-<div style="text-align: center;">
+<div align="center">
   <img src="/docs/assets/robot.png" alt="New Image" title="New Image" style="width: 500px; max-width: 100%;" />
 </div>
 
