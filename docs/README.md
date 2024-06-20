@@ -1,4 +1,4 @@
-# Sparkle - Robot 🤖
+# Sparkle-Robot 🤖
 
 This repository includes the complete source code, design files, and documentation for the Sparkle Robot, a versatile and feature-rich automation platform built for the EN2533 - Robot Design and Competition module.
 
@@ -6,7 +6,7 @@ This repository includes the complete source code, design files, and documentati
   <img src="/docs/assets/robot.png" alt="New Image" title="New Image" style="width: 500px; max-width: 100%;" />
 </div>
 
-## Features 🌟
+## Features
 
 * **Line Following & Obstacle Avoidance 🚧:** Enables the robot to navigate predefined paths while avoiding obstacles using phototransistors and ultrasonic sensors.
 * **Ramp Navigation & Box Dragging 📦:**  A robust mechanical design with a geared motor system enables the robot to ascend ramps and drag boxes.
@@ -21,14 +21,14 @@ This repository includes the complete source code, design files, and documentati
 ├── docs
 │   └── assets
 |   └── requirements
-├── scripts
-└── src
+├── src
+└── scripts
 ```
 
 **Detailed Description:**
 
 * **design/Robot-Arm-STL:** Contains STL files for 3D printing the robotic arm components designed using SolidWorks.
-* **docs
+* **docs**
     * **assets:** Contains supplementary assets for documentation, such as images, diagrams, and videos.
     * **requirements:**  Contains competition requirements documents for the EN2533 module. This folder should include:
         * **Task_v1.pdf:**  The initial version of the competition guidebook.
@@ -37,13 +37,13 @@ This repository includes the complete source code, design files, and documentati
     * **sparkle_robot_src.ino:**  The main Arduino program that controls all the robot functionalities.
 * **scripts:** Contains scripts for each hardware part of robot for test their funcationality separately.
 
-## Robot overview
+## Robot overview ⚙️
 
 ### Adding Functionality
 
 * **Line Following:**
     * Implement a line-following algorithm using ir array.
-    * Use the `analogRead()` function to read sensor values.
+    * Use the analogRead() function to read sensor values.
     * Implement a PID (Proportional-Integral-Derivative) controller to maintain a stable line-following trajectory.
 * **Obstacle Avoidance:**
     * Utilize ultrasonic sensors to detect obstacles in front of the robot.
@@ -122,40 +122,14 @@ This repository includes the complete source code, design files, and documentati
 
 **Software:**
 
-* **Arduino Mega 2560:**  The main microcontroller that controls all robot functionalities.
+* **[Arduino Mega 2560](https://docs.arduino.cc/hardware/mega-2560/):**  The main microcontroller that controls all robot functionalities.
 * **Source Code:**  The code for the Sparkle Robot is located in the `src` folder. The main program file is `sparkle_robot_src.ino`.
 
-## Getting Started 🛠️
+> [!TIP]
+> Individual hardware components and their functionalities can be independently verified using dedicated test scripts located within the `scripts` folder.
 
-To get started with the Sparkle Robot, follow these instructions:
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/sparkle-robot.git
-   ```
-
-2. **Navigate to the Directory**
-   ```bash
-   cd sparkle-robot
-   ```
-
-3. **Upload the Code to Arduino Mega 2560**
-   - Open the Arduino IDE.
-   - Load the `sparkle_robot_src.ino` file.
-   - Select the correct board and port.
-   - Upload the code.
-
-## Hardware Requirements 🛒
-
-- Arduino Mega 2560
-- Line sensors
-- Ultrasonic sensors
-- Servo motors
-- Color sensor
-- Sound sensor
-- Chassis with wheels
-- Box for dragging and picking
-
+> [!WARNING]
+> Modifying hardware component connections or device configurations will inevitably necessitate adjustments to the corresponding pin configurations within the source code or scripts.
 ## Team Members
 
 - [**Akhila Prabodha**](https://github.com/AkhilaPrabodha)
@@ -168,7 +142,7 @@ To get started with the Sparkle Robot, follow these instructions:
 
 https://github.com/pulinduvidmal/Sparkle-Robot/assets/107745680/13c5de56-0cc0-490a-96d4-449374089251
 
-# Contributions 🤝
+## Contributions
 
 Contributions are welcome! 
 
@@ -177,6 +151,6 @@ Contributions are welcome!
 
 Feel free to reach out with any questions or suggestions!
 
-# License 📄
+# License
 
 This project is licensed under the [MIT License](LICENSE).
