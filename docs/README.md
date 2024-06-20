@@ -37,7 +37,7 @@ This repository includes the complete source code, design files, and documentati
     * **sparkle_robot_src.ino:**  The main Arduino program that controls all the robot functionalities.
 * **scripts:** Contains scripts for each hardware part of robot for test their funcationality separately.
 
-## Robot overview ⚙️
+## Robot overview
 
 ### Adding Functionality
 
