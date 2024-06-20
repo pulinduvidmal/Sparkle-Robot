@@ -41,7 +41,7 @@ This repository includes the complete source code, design files, and documentati
 
 > [!TIP]
 > The full task documentation can be found in the [requirements](/docs/requirements/) folder.
-> - [Task_V1](/docs/requirements/EN2533-Robot_Designand_Competition_Task_v1.0.pdf)
+> - [Task_V1.0](/docs/requirements/EN2533-Robot_Designand_Competition_Task_v1.0.pdf)
 > - [Task_V1.1](/docs/requirements/EN2533-Robot_Design_and_Competition_Task_v1.1.pdf)
 
 <div align="center">
