@@ -37,6 +37,17 @@ This repository includes the complete source code, design files, and documentati
     * **sparkle_robot_src.ino:**  The main Arduino program that controls all the robot functionalities.
 * **scripts:** Contains scripts for each hardware part of robot for test their funcationality separately.
 
+## Task - 2023
+
+> [!TIP]
+> The full task documentation can be found in the [requirements](/docs/requirements/) folder.
+> - [Task_V1](/docs/requirements/EN2533-Robot_Designand_Competition_Task_v1.0.pdf)
+> - [Task_V1.1](/docs/requirements/EN2533-Robot_Design_and_Competition_Task_v1.1.pdf)
+
+<div align="center">
+  <img src="/docs/assets/arena.png" alt="Arena" title="New Image" style="width: 500px; max-width: 100%;" />
+</div>
+
 ## Robot overview
 
 ### Adding Functionality
